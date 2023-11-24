@@ -12,7 +12,7 @@
             background-color: #a91101;
         }
 
-        h1, p, th, td, label, li a{
+        h1, h2, p, th, td, label, li a{
             color: #FF8E00;
         }
 
@@ -66,6 +66,8 @@
     /* INFO PAGE */
 
         /*No Borders around the outside of the table*/
+    
+        /* 
         table {
             border-collapse: collapse;
         }
@@ -102,7 +104,7 @@
             padding: .25em;
             margin: .25em;
         }
-
+        */
     /* FLEXBOX */
         .flexbox{
             display: flex;
@@ -117,7 +119,7 @@
 
 
     /* CONTENT */
-        h1{
+        h1, h2{
             font-size: 2.5em;
             font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
             padding: .5em;
@@ -204,7 +206,7 @@
             background-color: #a91101;
         }
 
-        h1, p, th, td, label, li a{
+        h1, h2, p, th, td, label, li a{
             color: #FF8E00;
         }
 
