@@ -59,6 +59,9 @@
            
         }
 
+        .infolink{
+            font-size: 3em;
+        }
 
         li a:hover{
             display: block;
