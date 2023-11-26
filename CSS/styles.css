@@ -61,6 +61,12 @@
 
         .infolink{
             font-size: 3em;
+            color: #FF8E00;
+        }
+
+        .infolink:hover{
+            color: #fff;
+            text-shadow: #FF8E00;
         }
 
         li a:hover{
