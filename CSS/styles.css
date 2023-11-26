@@ -250,7 +250,7 @@
             align-items: center;
         } 
 
-        h1 {
+        h1{
             font-size: 2.5em;
             text-align: center;
             font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -259,7 +259,7 @@
         h2{
             font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
             padding: .5em;
-            font-size: 2.5em;
+            font-size: 5em;
         }
 
         .aboutmetitle{
@@ -273,6 +273,8 @@
             font-size: 2em;
         }
 
+
+        /*
         th{
             1em;
         }
@@ -300,6 +302,7 @@
         tr{
             flex: 1;
         }
+        */
 
 
     /* NAV STYLING */
