@@ -276,6 +276,9 @@
             padding-right: .5em;
         }
 
+        .column{
+            width: 100%;
+        }
 
         /*
         th{
