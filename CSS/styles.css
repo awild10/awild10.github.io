@@ -394,5 +394,9 @@
             align-items: center;
         }
 
+    .fcf-input-group, .fcf-form-group{
+            width: 100%;
+    }
+
 
 }
