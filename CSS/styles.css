@@ -194,6 +194,7 @@
 
         #contactsection{
             margin-left: 44%;
+            
         }
 
         button{
@@ -376,6 +377,7 @@
         #contactsection{
             margin: auto;
             flex: 1;
+            width:100%;
         }
 
         button{
