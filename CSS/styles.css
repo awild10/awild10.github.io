@@ -193,7 +193,7 @@
         }
 
         #contactsection{
-            margin: auto;
+            margin-left: 44%;
         }
 
         button{
@@ -387,7 +387,7 @@
             padding-left: 10em;
             padding-right: 10em;
             width: 100%;
-            align-items: center
+            align-items: center;
         }
 
 
