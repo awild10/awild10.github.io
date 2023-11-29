@@ -162,10 +162,12 @@
             padding: .5em;
         }
 
+        /*
         img, ul{
             border: .25em solid;
             border-color: #ff8c00b0;
         }
+        */
 
 
     /* CONTACT PAGE */
@@ -205,6 +207,7 @@
             font-size: 2em;
             font-weight: bold;
             align-items: center;
+            border-radius: 8px;
         }
 
         button:hover{
@@ -393,6 +396,7 @@
             font-size: 2em;
             font-weight: bold;
             align-items: center;
+            border-radius: 8px;
         }
 
         #contactform{
