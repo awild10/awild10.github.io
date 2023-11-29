@@ -323,6 +323,7 @@
         }
 
         img, ul{
+            width: 100;
             /*
             border: .25em solid;
             border-color: #ff8c00b0;
@@ -343,7 +344,7 @@
             
             list-style-type: none;
             margin: none;
-            padding: 2em;
+            padding: 1em;
         }
 
         .biglinks{
