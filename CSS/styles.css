@@ -14,11 +14,10 @@
         }
 */
         nav{
-            background-img: url(images/"navpic.jpg");
-            background-position: center;
+            background-img: url(../images/"navpic.jpg");
             background-repeat: no-repeat;
             background-size: cover;
-            min-height: 100px;
+            
         }
 
         h1, h2, p, th, td, label, li a, a{
