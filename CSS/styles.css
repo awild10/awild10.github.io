@@ -8,8 +8,13 @@
             padding: .25em;
         }
 
+        /*
         nav, footer{
             background-color: #a91101;
+        }
+*/
+        nav{
+            background-img: "images/navpic.jpg";
         }
 
         h1, h2, p, th, td, label, li a, a{
