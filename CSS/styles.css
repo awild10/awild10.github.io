@@ -14,7 +14,7 @@
         }
 */
         nav{
-            background-img: "images/navpic.jpg";
+            background-img: images/("navpic.jpg");
         }
 
         h1, h2, p, th, td, label, li a, a{
