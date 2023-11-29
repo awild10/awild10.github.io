@@ -14,7 +14,7 @@
         }
 */
         nav{
-            background-img: url(../images/"navpic.jpg");
+            background-img: url("../images/"navpic.jpg");
             background-repeat: no-repeat;
             background-size: cover;
             
