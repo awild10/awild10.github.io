@@ -47,6 +47,10 @@
             margin-left: 10%;
             margin-right: 10%;
             */
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            flex: 1;
+            font-size: 1.5em;
+            text-align: center;
         }
 
 
@@ -54,19 +58,18 @@
             display: flex;
             flex-direction: row;
             flex-wrap: wrap;
-            
             list-style-type: none;
             margin: none;
             padding: 2em;
         }
-
+/*
         .biglinks{
             font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
             flex: 1;
             font-size: 1.5em;
             text-align: center;
         }
-    
+ */   
         li{
            
         }
