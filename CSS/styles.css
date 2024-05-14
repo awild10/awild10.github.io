@@ -163,6 +163,12 @@
             font-size: 2.5em;
         }
 
+        .dotlist{
+            list-style-type: circle;
+        }
+
+        }
+
         .content{
             font-size: 2em;
         }
