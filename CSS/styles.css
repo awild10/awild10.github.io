@@ -43,7 +43,8 @@
             border-width: 5px;
             border-color: #FF8E00;
             border-radius: 1em;
-            padding: .25em;
+            padding: .5em .25em;
+            margin: .25em;
         }
 
 
